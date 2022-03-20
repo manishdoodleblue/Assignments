@@ -1,0 +1,15 @@
+.bb{
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+}
+.mm{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 150px;
+}
+.cc{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 150px;
+}
