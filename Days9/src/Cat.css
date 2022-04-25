@@ -1,0 +1,25 @@
+
+    .b{
+        margin-left: 550px;
+        margin-bottom:50px
+    
+    }
+    .c{
+        border:2px rgb(136, 139, 125) solid;
+        margin-top: 50px;
+        margin-left: 250px;
+        margin-right:250px;
+        border-radius:25px;
+        margin-bottom:100px; 
+        
+        background-color:rgb(179, 139, 184);
+        box-shadow:0 4px 8px 0 rgba(109, 73, 73, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+    .d{
+        float: right;
+        background-color: #cae4dd;
+        text-decoration: none;
+        color: maroon;
+    
+    }
+    
